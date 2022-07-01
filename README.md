@@ -4,7 +4,7 @@
     <strong>❯❯ 🚀 DESAFIO ↓</strong><br>
   </p>
 
-> ### O projeto apresentado faz parte dos desafios da plataforma [Digital Innovation One](https://web.digitalinnovation.one/home, através do Santander Bootcamp Fullstack Developer
+> ### O projeto apresentado faz parte dos desafios da plataforma [Digital Innovation One](https://web.digitalinnovation.one/home), através do Santander Bootcamp Fullstack Developer
 > 
 
  <br>
